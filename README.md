@@ -9,6 +9,12 @@ An asteroids like game built on [Chingu](https://github.com/ippa/chingu) (whose 
 Running
 =======
 
+You must have (ruby)[http://www.ruby-lang.org/en/] and (ruby gems)[http://rubygems.org/] installed.
+
+Install the chingu gem:
+
+    $ gem install chingu
+
 Go to **chingu/games** directory and run:
 
     $ ruby hanziroids.rb
